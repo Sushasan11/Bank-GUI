@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: Bank GUI
+PURPOSE OF PROJECT: to get friendly with java gui system for begginers
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Sushasan
 USER INSTRUCTIONS:
